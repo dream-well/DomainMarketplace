@@ -2,7 +2,7 @@ Domain Marketplace
 ==============
 Next.js - MongoDB webapp
 
-<img src="https://github.com/dream-well/DomainMarketplace/blob/dev/assets/images/main.png?raw=true"></img>
+<img src="https://raw.githubusercontent.com/dream-well/DomainMarketplace/main/assets/images/main.png"></img>
 
 ## install
 Firstly, install mongodb and yarn to start this project
